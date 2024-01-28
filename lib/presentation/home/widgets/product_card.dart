@@ -44,7 +44,7 @@ class ProductCard extends StatelessWidget {
                 child: ClipRRect(
                   borderRadius: const BorderRadius.all(Radius.circular(55.0)),
                   child: CachedNetworkImage(
-                    width: 120,
+                    width: 100,
                     height: 100,
                     fit: BoxFit.fitWidth,
                     imageUrl: '${Variables.imageBaseUrl}${data.image}',
@@ -69,10 +69,10 @@ class ProductCard extends StatelessWidget {
               ),
               const SpaceHeight(1.0),
               Text(
-                'Stock: ${data.stock.toString()}',
+                'Stock ${data.stock.toString()}',
                 style: const TextStyle(
                   color: AppColors.black,
-                  fontSize: 14,
+                  fontSize: 12,
                   fontWeight: FontWeight.w400,
                 ),
               ),
