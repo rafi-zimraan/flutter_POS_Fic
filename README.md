@@ -1,15 +1,11 @@
-# Nama Proyek Flutter
+# POS_FLUTTER
+![alt text](https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Login_POS.png)
+![alt text](https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Dashboard_POS.png)
+![alt text](https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Orders_POS.png)
+![alt text](https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Kelola_POS.png)
+
 
 Deskripsi singkat proyek menggunakan Flutter.
-
-## Applikasi
-https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Login_POS.png
-<br>
-https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Dashboard_POS.png
-<br>
-https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Orders_POS.png
-<br>
-https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Kelola_POS.png
 
 ## Langkah-langkah Penggunaan
 
