@@ -1,16 +1,28 @@
-# flutter_pos_app
+# Nama Proyek Flutter
 
-A new Flutter project.
+Deskripsi singkat proyek menggunakan Flutter.
 
-## Getting Started
+## Applikasi
+https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Login_POS.png
+<br>
+https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Dashboard_POS.png
+<br>
+https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Orders_POS.png
+<br>
+https://github.com/rafi-zimraan/flutter_POS_Fic/blob/main/assets/images/Kelola_POS.png
 
-This project is a starting point for a Flutter application.
+## Langkah-langkah Penggunaan
 
-A few resources to get you started if this is your first Flutter project:
+Berikut adalah langkah-langkah untuk menjalankan proyek ini di lokal mesin Anda.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Prasyarat
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pastikan telah menginstal Flutter dan Dart di mesin Anda. Jika belum, ikuti langkah-langkah instalasi di [Dokumentasi Resmi Flutter](https://flutter.dev/docs/get-started/install).
+
+### 2. Clone Repositori
+
+Clone repositori ini ke lokal mesin Anda menggunakan perintah berikut:
+
+```bash
+git clone https://github.com/nama_pengguna/nama_proyek_flutter.git
+
